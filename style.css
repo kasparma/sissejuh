@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+    background-color: rgb(81, 81, 81);
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    color:orchid;
+    text-align: center;
+    font-family: fantasy;
+}
+
+img {
+    border: rgb(232, 255, 127);
+    border-radius: 20px;
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tg td {
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg th {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg .tg-0lax {
+    color: white;
+    text-align: left;
+    vertical-align: top;
+}
+
+div.container {
+    text-align: center;
+    color: white;
+}
+  
+ul.myUL {
+    color: white;
+    display: inline-block;
+    text-align: left;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
